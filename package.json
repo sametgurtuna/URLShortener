@@ -1,0 +1,35 @@
+{
+  "name": "urlshortener",
+  "version": "1.0.0",
+  "description": "Modern bir link kısaltıcı uygulaması",
+  "main": "server/server.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/server.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "geoip-lite": "^1.4.10",
+    "nanoid": "^4.0.2",
+    "sqlite3": "^5.1.6",
+    "user-agents": "^1.1.627",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "url-shortener",
+    "link-shortener",
+    "react",
+    "express"
+  ],
+  "author": "Samet",
+  "license": "MIT"
+}
