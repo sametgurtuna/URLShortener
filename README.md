@@ -60,14 +60,6 @@
 - **Intuitive Dashboard**: User-friendly analytics and management
 - **Social Sharing**: Easy integration with social media platforms
 
-## 🚀 Live Demo
-
-**Production URL**: [https://yourdomain.com](https://yourdomain.com)
-
-**Demo Credentials**:
-- **Email**: `demo@example.com`
-- **Password**: `demo123`
-
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -103,7 +95,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/urlshortener.git
+   git clone https://github.com/sametgurtuna/URLShortener.git
    cd urlshortener
    ```
 
