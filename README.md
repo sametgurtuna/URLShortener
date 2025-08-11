@@ -584,26 +584,7 @@ SOFTWARE.
 
 ### Getting Help
 
-- **Documentation**: [https://docs.yourdomain.com](https://docs.yourdomain.com)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/urlshortener/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/urlshortener/discussions)
-- **Email**: support@yourdomain.com
-
-### Community
-
-- **Discord**: [Join our community](https://discord.gg/urlshortener)
-- **Twitter**: [@URLShortener](https://twitter.com/URLShortener)
-- **Blog**: [https://blog.yourdomain.com](https://blog.yourdomain.com)
-
-### Enterprise Support
-
-For enterprise customers, we offer:
-
-- **Priority Support**: 24/7 dedicated assistance
-- **Custom Development**: Tailored features and integrations
-- **Training & Consulting**: Team onboarding and best practices
-- **SLA Guarantees**: Service level agreements
-- **White-label Solutions**: Custom branding and deployment
+- **Email**: samet@gurtuna.dev
 
 ---
 
@@ -631,9 +612,4 @@ npm run test:coverage
 # Deployment
 npm run deploy
 ```
-
----
-
-**Made with ❤️ by the URLShortener Team**
-
 *If you find this project helpful, please consider giving it a ⭐ star on GitHub!*
